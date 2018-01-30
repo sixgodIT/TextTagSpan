@@ -1,6 +1,7 @@
 # TextTagSpan
-在TextView中使用文本添加自定义标签，
-![image](https://github.com/sixgodIT/TextTagSpan/blob/master/Screenshot.png)
+在TextView中使用文本添加自定义标签
+
+![image](https://github.com/sixgodIT/TextTagSpan/blob/master/Screenshot.png =200x)
 
 支持：
 1. 可在文本任何位置添加文字标签
